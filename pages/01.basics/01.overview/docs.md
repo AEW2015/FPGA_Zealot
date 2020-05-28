@@ -14,6 +14,7 @@ A Field Programmable Gate Array (FPGA) is a device with configurable hardware th
 Design digital hardware is very different than software.
 Software takes a very sequential path to solve a problem.
 Hardware on the other hands is concernt can solve the problem at once.
+Hardware usually takes more thought and less code to generate powerful results rivaling software or beating it out right.
 
 Where do I get one?
 

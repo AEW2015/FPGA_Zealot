@@ -8,6 +8,13 @@ visible: true
 
 [All The Cheap Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
 
+What is FPGA?
+
+Where do I get one?
+
+How do program it?
+
+What should I use it for?
 
 Project Ideas:
 * 	Bang detector

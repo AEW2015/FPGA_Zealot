@@ -10,6 +10,11 @@ visible: true
 
 What is FPGA?
 
+A Field Programmable Gate Array (FPGA) is a device with configurable hardware that is defined by the user, YOU!
+Design digital hardware is very different than software.
+Software takes a very sequential path to solve a problem.
+Hardware on the other hands is concernt can solve the problem at once.
+
 Where do I get one?
 
 How do program it?

@@ -1,7 +1,8 @@
 ---
 title: 'Video Processing Pipeline'
 taxonomy:
-    category: docs
+    category:
+        - docs
 visible: true
 ---
 

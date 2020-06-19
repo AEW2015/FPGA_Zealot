@@ -13,11 +13,11 @@ This project looks at doing image/video processing on the Atry FPGA.  It was abl
 
 These are links to video of the project and development.
 
-# Overview
+### Overview
 
 This video will present over of the project, need to be made
 
-# Livestream Log
+### Livestream Log
 
 A list of the recorded livestreams with a quick summary
 
@@ -27,11 +27,11 @@ I will probably put the files in the same repo as this website so the files and 
 
 ## Reference Designs
 
-# Icebreaker Examples
+### Icebreaker Examples
 
-# Pynq HLS video IP
+### Pynq HLS video IP
 
-# BYU PYNQ Video Processing Pipeline HLS video IP
+### BYU PYNQ Video Processing Pipeline HLS video IP
 
 
 ## Build Guide

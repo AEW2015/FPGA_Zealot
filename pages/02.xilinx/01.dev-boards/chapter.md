@@ -1,8 +1,8 @@
 ---
 title: 'Dev Boards'
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 visible: true
 ---
 

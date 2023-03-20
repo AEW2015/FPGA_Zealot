@@ -1,12 +1,12 @@
 ---
-title: Basics
+title: Welcome
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 1
+### Welcome
 
-# Basics
+# FPGA Zealot
 
-Discover the **basic** principles
+Discover **FPGAs**!!! 
